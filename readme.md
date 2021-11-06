@@ -16,6 +16,7 @@ Create config.json file in the following format:
 ```bash
 {
     "API_KEY": "PASTE YOUR TWITCH API KEY HERE",
+    "OAUTH_TOKEN": "PASTE YOUT TWITCH OAUTH TOKEN HERE",
     "LOGIN_ID": "PASTE YOUR DISCORD BOT API TOKEN HERE"
 }
 ```
@@ -28,4 +29,3 @@ node app.js
 ## Contributing
 
 [P.S.S Abishek](https://github.com/pssabishek) <br/>
-[Nandhakumar Saravanan](https://github.com/nandhakumar23)
